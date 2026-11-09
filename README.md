@@ -4,7 +4,7 @@ Test repository for DSH panel E2E validation.
 
 ## Setup
 
-This repo recieves automated fixes from the shyxin-agent worker.
+This repo receives automated fixes from the shyxin-agent worker.
 
 ## 关于本仓库
 
